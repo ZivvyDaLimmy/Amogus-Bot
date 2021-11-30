@@ -86,8 +86,6 @@ def sabotagecomms():
 lstglowyx=[820,749,672,593]     
 def startreactor():
     keyboard.press('space')
-    '''honestly coding gore from me took me some time to shorten this code
-    idk if there is gonna be a bug but yea'''
     time.sleep(1)
     pic = pyautogui.screenshot(region=(0,0, 1919, 1079))
     identified = False
