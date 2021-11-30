@@ -1,0 +1,2 @@
+# Amogus-Bot
+sussy
